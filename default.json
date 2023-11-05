@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "Welcome to Nayco's Supreme Server!",
-                    "text1": "This server is still in development, but highly functional./n/nPlease be sure to check out 'Server Rules' and join our Discord for updates/n",
+                    "text1": "This server is still in development, but highly functional.\n\nPlease be sure to check out 'Server Rules' and join our Discord for updates\n",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
@@ -27,9 +27,9 @@
                     "layout": 2,
                     "buttontext": "How to's and What's Next",
                     "title1": "Shop",
-                    "text1": "Getting set up on the shop is easy!/n/nYou earn 50 gold coins for every half hour played. You also have the opportunity to earn coins from taming, killing and harvesting. Coins can be exchanged for purchases from the shop!/n/nAccess the shop by going to your inventory, and clicking the home icon on the bottom right. To close the shop, click 'off' the shop",
+                    "text1": "Getting set up on the shop is easy!\n\nYou earn 50 gold coins for every half hour played. You also have the opportunity to earn coins from taming, killing and harvesting. Coins can be exchanged for purchases from the shop!\n\nAccess the shop by going to your inventory, and clicking the home icon on the bottom right. To close the shop, click 'off' the shop",
                     "title2": "Coming soon:",
-                    "text2": "- Starter Packs/n/n- Events/n/n- Community Center",
+                    "text2": "- Starter Packs\n\n- Events\n\n- Community Center",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
@@ -38,7 +38,7 @@
                     "layout": 1,
                     "buttontext": "Upcoming Events",
                     "title1": "Schedule",
-                    "text1": "There are currently no planned events. These will be added when the server is out of development.",
+                    "text1": "There are currently no planned events.\n\nThese will be added when the server is out of development.",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             }
