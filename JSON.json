@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "OpenButton": 0,
+    "HideIcon": false,
+    "HideIconAfter": 60,
+    "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+    "DisableIconText": false,
+    "IconPosition": 0,
+    "IconTextColor": 0,
+    "OpenOnStart": true,
+    "OpenOnStartOnlyNewPlayers": true,
+    "UpdateInterval": 12
+  },
+  "tabs": [
+    {
+      "tab1": {
+        "layout": 1,
+        "buttontext": "1 Box layout",
+        "title1": "title",
+        "text1": "This text goes into the box",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png"
+      }
+    },
+    {
+      "tab2": {
+        "layout": 1,
+        "buttontext": "1 Box layout",
+        "title1": "title",
+        "text1": "This text goes into the box",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png"
+      }
+    }
+  ],
+  "tab3": {
+    "layout": 3,
+    "buttontext": "4 Box layout",
+    "title1": "Top left title",
+    "title2": "Top right title",
+    "title3": "bottom left title",
+    "title4": "bottom right title",
+    "text1": "This text goes into the top left box",
+    "text2": "This text goes into the top right box",
+    "text3": "This text goes into the bottom left box",
+    "text4": "This text goes into the bottom right box",
+    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+  },
+  "links": [
+    {
+      "link1": {
+        "text": "Link to Wiki",
+        "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+      }
+    }
+  ]
+}
