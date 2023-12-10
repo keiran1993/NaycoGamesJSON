@@ -46,12 +46,14 @@
             },
             {
                 "tab4": {
-                    "layout": 2,
+                    "layout": 3,
                     "buttontext": "Server Rules",
                     "title1": "Server",
                     "text1": "This server is a fun, safe space for all ages.\n\nBullying via repeated raiding, use of abusive language or any other method will result in an immediate ban.\nWe have a 0 tolerance of anyone making anyone else feel they are not welcome.\n\nWe're all human, we all know right from wrong. If you can't comply with basic human decency, you are not welcome here.",
                     "title2": "Community Center",
                     "text2": "The community center is a safe place for all new and existing players. Any killing, raiding or any activity which puts a player at a disadvantage while in the Community Center is strictly forbidden.\n\nIf you see any behavior which violates this, report it immediately to an admin in Discord.",
+                    "title3": "Admin Buildings",
+                    "text3": "Raiding, intentional destruction or defacing of any admins is extremely prohibited.\n\nThis includes:\n- Admin Bases\n\n- Community Centers\n- Arenas\n- Event Spaces\n\nIf any damage occurs by accident such as in arenas, please report this ASAP to an admin on Discord. You will not face any sanctions if the damage was accidental.\n\nHowever if we see in logs that damage was caused by your tribe and it wasn't reported, we will assume this to be malicious.",
                     "imageurl": "https://i.imgur.com/xWW0884.png"
                 }
             }
