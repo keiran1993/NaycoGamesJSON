@@ -43,6 +43,17 @@
                     "text1": "There are currently no planned events.\n\nThese will be added when the server is out of development.",
                     "imageurl": "https://i.imgur.com/xWW0884.png"
                 }
+            },
+            {
+                "tab4": {
+                    "layout": 2,
+                    "buttontext": "Server Rules",
+                    "title1": "Server",
+                    "text1": "This server is a fun, safe space for all ages.\n\nBullying via repeated raiding, use of abusive language or any other method will result in an immediate ban.\nWe have a 0 tolerance of anyone making anyone else feel they are not welcome.\n\nWe're all human, we all know right from wrong. If you can't comply with basic human decency, you are not welcome here.",
+                    "title2": "Community Center",
+                    "text2": "The community center is a safe place for all new and existing players. Any killing, raiding or any activity which puts a player at a disadvantage while in the Community Center is strictly forbidden.\n\nIf you see any behavior which violates this, report it immediately to an admin in Discord.",
+                    "imageurl": "https://i.imgur.com/xWW0884.png"
+                }
             }
         ],
         "links": [
