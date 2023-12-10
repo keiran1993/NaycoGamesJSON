@@ -2,10 +2,10 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": true,
+            "HideIcon": false,
             "HideIconAfter": 30,
-            "IconURL": "https://photos.onedrive.com/share/DE834F54D71826DB!16540?cid=DE834F54D71826DB&resId=DE834F54D71826DB!16540&authkey=!ADq0VVbnLv7zsb4&ithint=photo&e=mMvCkM",
-            "DisableIconText": false,
+            "IconURL": "blob:https://photos.onedrive.com/804c285e-c7c4-42b1-a6d6-b2215faa6318",
+            "DisableIconText": true,
             "IconPosition": 0,
             "IconTextColor": 0,
             "OpenOnStart": true,
