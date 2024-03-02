@@ -17,8 +17,8 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "Welcome to Nayco's Supreme Server!",
-                    "text1": "This server is still in development, but highly functional.\n\nPlease be sure to check out 'Server Rules' and join our Discord for updates\n\n\nWhen you're getting started, head over to our community center at 91.6 Lat 49.3 Lon. Free resources, food and shelter.\n\n\nYou can access the menu any time by pressing F1 on your keyboard.",
+                    "title1": "Welcome to Naycos Supreme RP Server!",
+                    "text1": "We have recently refreshed this server, so it is still in development, but highly functional.\n\nPlease be sure to check out 'Server Rules' and join our Discord for updates\n\n\nWhen you're getting started, head over to our community center by typing 'tpcc' in to chat (Without the quote marks. Free resources, food and shelter.\n\n\nYou can access the menu any time by pressing F1 on your keyboard.",
                     "imageurl": "https://i.imgur.com/xWW0884.png"
                 }
             },
@@ -26,12 +26,12 @@
                 "tab2": {
                     "layout": 3,
                     "buttontext": "How to's and What's Next",
-                    "title1": "Shop",
-                    "text1": "Getting set up on the shop is easy!\n\nYou earn 20 gold coins for every half hour played. You also have the opportunity to earn coins from taming, killing and harvesting. Coins can be exchanged for purchases from the shop!\n\nAccess the shop by going to your inventory, and clicking the home icon on the bottom left. To close the shop, click 'off' the shop",
+                    "title1": "Starter Pack",
+                    "text1": "You will receive your starter pack automatically after about 10 minutes of playing. You will get an on-screen notification and it will appear in your inventory.",
                     "title2": "Coming soon:",
                     "text2": "- Events",
-                    "title3": "Getting your starter pack",
-                    "text3": "1. Press I to access your inventory\n\n2. Click the house icon on the bottom left of your screen\n\n3. Select the loot crate icon on the left menu\n\n4. Click starter kit and purchase. It's free\n\n5. Click anywhere off the shop screen to exit\n\n6. Your starter kit is now in your inventory.",
+                    "title3": "Shop",
+                    "text3": "Thanks to Sony and Microsoft, all crossplay servers cannot install shop mods. We are currently working to implement this with GameServerApp, but PS5 players have problems using chat commands. As we implement a fix we will let the community know on Discord.",
                     "imageurl": "https://i.imgur.com/xWW0884.png"
                 }
             },
@@ -40,7 +40,7 @@
                     "layout": 1,
                     "buttontext": "Upcoming Events",
                     "title1": "Schedule",
-                    "text1": "There are currently no planned events.\n\nThese will be added when the server is out of development.",
+                    "text1": "Check out naycogames.premiumark.net for all upcoming events",
                     "imageurl": "https://i.imgur.com/xWW0884.png"
                 }
             },
